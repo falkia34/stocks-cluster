@@ -1,0 +1,10 @@
+Period,Days Sales Outstanding (Annual),Days Inventory (Annual),Payables Period (Annual),Cash Conversion Cycle (Annual),Receivables Turnover (Annual),Receivables Turnover (TTM),Inventory Turnover (Annual),Inventory Turnover (TTM),Fixed Assets Turnover (Annual),Fixed Assets Turnover (TTM),Asset Turnover (Annual),Asset Turnover (TTM),Working Capital Turnover (Annual),Working Capital Turnover (TTM),Working Capital Ratio (Annual)
+12M 2016,,,,,,,,,,,,,0.59,,6.7
+12M 2017,8.69,201.86,14.05,196.5,42.01,48.68,1.81,1.81,0.35,0.37,0.08,0.08,0.34,0.34,12.94
+12M 2018,15.57,152.67,18.43,149.81,23.45,16.43,2.39,2.83,0.45,0.47,0.09,0.09,0.38,0.38,16.14
+12M 2019,20.64,50.37,27.55,43.46,17.68,23.58,7.25,14.8,0.53,0.56,0.08,0.07,0.17,0.17,16.2
+12M 2020,43.38,2022.49,71.92,1993.95,8.41,14.41,0.18,0.18,0.18,0.19,0.03,0.03,0.16,,8.9
+12M 2021,24.69,4748.34,43.58,4729.45,14.78,17.07,0.08,0.07,0.23,0.24,0.04,0.04,0.19,0.19,4.98
+12M 2022,19.42,2912.07,32.54,2898.95,18.8,23.46,0.13,0.12,0.63,0.67,0.09,0.09,0.42,0.42,8.8
+12M 2023,14.33,2168.33,30.14,2152.52,25.47,44.27,0.17,0.17,0.92,0.97,0.11,0.11,0.52,0.52,8.36
+12M 2024,9.49,2898.82,38.18,2870.13,38.47,43.05,0.13,0.13,0.77,0.81,0.08,0.08,0.44,0.44,3.75
