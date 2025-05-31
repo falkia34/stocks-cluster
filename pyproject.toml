@@ -11,7 +11,8 @@ dependencies = [
     "ipykernel (>=6.29.5,<7.0.0)",
     "dotenv (>=0.9.9,<0.10.0)",
     "lxml (>=5.4.0,<6.0.0)",
-    "beautifulsoup4 (>=4.13.4,<5.0.0)"
+    "beautifulsoup4 (>=4.13.4,<5.0.0)",
+    "matplotlib (>=3.10.3,<4.0.0)"
 ]
 
 [tool.poetry]
