@@ -1,7 +1,7 @@
 Period,Days Sales Outstanding (Annual),Days Inventory (Annual),Payables Period (Annual),Cash Conversion Cycle (Annual),Receivables Turnover (Annual),Receivables Turnover (TTM),Inventory Turnover (Annual),Inventory Turnover (TTM),Fixed Assets Turnover (Annual),Fixed Assets Turnover (TTM),Asset Turnover (Annual),Asset Turnover (TTM),Working Capital Turnover (Annual),Working Capital Turnover (TTM),Working Capital Ratio (Annual)
 12M 2008,,,,,,6.67,,2.28,,0.76,,0.45,-2.75,-2.75,0.62
 12M 2009,55.56,192.8,78.19,170.17,6.57,6.23,1.89,1.94,0.65,0.67,0.41,0.42,-7.63,-7.63,0.83
-12M 2010,54.11,199.34,64.44,189.01,6.75,4.53,1.83,1.79,0.63,0.65,0.37,0.36,-3.74,-3.74,0.77
+12M 2010,54.11,199.34,64.44,189.01,6.75,4.53,1.83,1.79,,0.65,0.37,0.36,-3.74,-3.74,0.77
 12M 2011,54.99,175.32,71.19,159.12,6.64,5.89,2.08,2.02,0.65,0.65,0.37,0.37,9.56,9.56,1.17
 12M 2012,50.82,135.09,78.05,107.86,7.18,5.46,2.7,2.48,0.76,0.77,0.4,0.4,-5.64,-5.64,0.86
 12M 2013,49.67,152.17,81.92,119.92,7.35,6.98,2.4,2.28,0.61,0.59,0.34,0.33,-0.93,-1.0,0.53
